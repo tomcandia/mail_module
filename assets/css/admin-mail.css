@@ -1,0 +1,11 @@
+/* CSS para Mail Administracion */
+
+.admin-box legend {
+	font-size:13px !important;
+}
+.admin-box h1, .admin-box h2 {
+	padding-left:20px;
+}
+.admin-box p {
+	padding-left:15px;
+}
